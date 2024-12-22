@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+img{
+    height:10%;
+    width:20%;
+    padding:30px;
+    margin-bottom:50px;;
+}
+
+h1{
+    color:red;
+}
+.cat{
+    height:100px;
+    width:100px;
+    text-align: center;
+    margin-left:44%;
+}
